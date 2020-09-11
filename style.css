@@ -1,0 +1,41 @@
+#q :hover{
+    background-color: orange;
+    margin: 5px;
+
+}
+
+hr {
+    border-color: gold;
+    border-width: 5px
+}
+
+#w {
+    font-style: italic;
+}
+
+button{
+    box-shadow: 5px 5px;
+}
+#e :hover{
+   background-color: forestgreen;
+   margin: 5px;
+}
+#e {
+    
+    font-style: italic;
+}
+#t :hover{
+    margin: 5px;
+    background-color: royalblue
+}
+p.a:after {
+    content: " Молодец"
+   }
+h3.a:after  {
+    content: " Молодец"
+   }
+#s :hover{
+    margin: 10px;
+    background-color: lightsalmon;
+    text-decoration-line: initial;
+}
