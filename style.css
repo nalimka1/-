@@ -26,7 +26,7 @@ button{
 }
 #t :hover{
     margin: 5px;
-    background-color: royalblue
+    background-color: lightpink
 }
 p.a:after {
     content: " Молодец"
